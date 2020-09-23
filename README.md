@@ -1,1 +1,1 @@
-# art
+# Art Algorithms
